@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ORJE388gsPBoFciWkm6qmQlmKhU2KoPHhmzI5tK2kKXIYzsPDHROSMquJnUDXoFqjHW6V0nU+eg/cgOWRbko1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miste\\OneDrive\\Dokumenty\\GitHub\\cwiczenia3_zen-s21009\\Zadanie2\\Zadanie2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miste\\.nuget\\packages\\csvhelper\\26.1.0\\csvhelper.26.1.0.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\miste\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
